@@ -3,6 +3,8 @@
 class Solution:
     def findMinOpeartion(self, matrix, n):
         # Code here
+        
+        
         sum_row = [0]*n
         col_sum = [0]*n
         temp = 0
